@@ -4,9 +4,9 @@
 
    <url>
 
-      <loc>http://www.mvml.org/index.html</loc>
+      <loc>http://www.vmwconference.com/index.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-05-13</lastmod>
 
       <priority>0.8</priority>
 
@@ -14,19 +14,9 @@
 
   <url>
 
-      <loc>http://www.mvml.org/papers.html</loc>
+      <loc>http://www.vmwconference.com/papers.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.mvml.org/program.html</loc>
-
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-05-13</lastmod>
 
       <priority>0.8</priority>
 
@@ -34,19 +24,9 @@
 
    <url>
 
-      <loc>http://www.mvml.org/dates.html</loc>
+      <loc>http://www.vmwconference.com/program.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.mvml.org/registration.html</loc>
-
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-05-13</lastmod>
 
       <priority>0.8</priority>
 
@@ -54,19 +34,9 @@
 
    <url>
 
-      <loc>http://www.mvml.org/committee.html</loc>
+      <loc>http://www.vmwconference.com/dates.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.mvml.org/keynote.html</loc>
-
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-05-13</lastmod>
 
       <priority>0.8</priority>
 
@@ -74,19 +44,9 @@
 
    <url>
 
-      <loc>http://www.mvml.org/sponsor.html</loc>
+      <loc>http://www.vmwconference.com/registration.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
-
-      <priority>0.8</priority>
-
-   </url>
-
-   <url>
-
-      <loc>http://www.mvml.org/venue.html</loc>
-
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-05-13</lastmod>
 
       <priority>0.8</priority>
 
@@ -94,9 +54,9 @@
 
    <url>
 
-      <loc>http://www.mvml.org/accommodation.html</loc>
+      <loc>http://www.vmwconference.com/committee.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-05-13</lastmod>
 
       <priority>0.8</priority>
 
@@ -104,9 +64,49 @@
 
    <url>
 
-      <loc>http://www.mvml.org/symposium.html</loc>
+      <loc>http://www.vmwconference.com/keynote.html</loc>
 
-      <lastmod>2015-07-21</lastmod>
+      <lastmod>2016-05-13</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.vmwconference.com/sponsor.html</loc>
+
+      <lastmod>2016-05-13</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.vmwconference.com/venue.html</loc>
+
+      <lastmod>2016-05-13</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.vmwconference.com/accommodation.html</loc>
+
+      <lastmod>2016-05-13</lastmod>
+
+      <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>http://www.vmwconference.com/symposium.html</loc>
+
+      <lastmod>2016-05-13</lastmod>
 
       <priority>0.8</priority>
 
