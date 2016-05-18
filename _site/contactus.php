@@ -122,7 +122,7 @@ mail($my_email,$subject,$message,$headers);
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
-<meta name="keywords" content="computer science conference, information technology conference, information system conference, cybernetics conference, pattern recognition conference, machine intelligence conference, machine learning conference, artificial intelligence conference, computer vision conference, image processing conference, video processing conference, data mining conference, computer science, information technology, information system, cybernetics, pattern recognition, machine intelligence, machine learning, artificial intelligence, computer vision, image processing, video processing, data mining">
+<meta name="keywords" content="smart glass, wearable imaging, projection devices, smart watch, smart apparel, smart jewelry, wearable health, fitness, activity tracking, ubiquitous systems, novel energy management solutions, context awareness, notification delivery, wearable biometrics, mobile biometrics, payment, autentication, haptics, prosthetics, energy harnessing, brain-interfaces, electromyography (emg) interfaces, 3d printing in wearables, wearable infrastructure, toolkits, mobile systems, mobile applications, mobile services, mobile computing, electric vehicles, vehicular electronics, intelligent transportation, vehicular communications, networks, telematics, mobile satellite systems, positioning, navigation, wireless networks, protocols, security, services, ad-hoc, m2m, sensor networks, communications networks, antenna systems, propagation, rf design, signal transmission, reception">
 <title>VMW'17 - Contact Us</title>
 
 <meta name="handheldfriendly" content="true">
@@ -413,7 +413,7 @@ mail($my_email,$subject,$message,$headers);
 </footer> 
 
 <div class="copyright">
-  <a href="international-aset.com">International ASET Inc.</a> | <a href="http://international-aset.com/phplistpublic/?p=subscribe&id=1">Subscribe</a> | <a href="../terms">Terms of Use</a> | <a href="../sitemap">Sitemap</a>
+  <a href="http://international-aset.com">International ASET Inc.</a> | <a href="http://international-aset.com/phplistpublic/?p=subscribe&id=1">Subscribe</a> | <a href="../terms">Terms of Use</a> | <a href="../sitemap">Sitemap</a>
   <p class="body">&copy; Copyright International ASET Inc., 2016. All rights reserved.</p>
   <p class="copyright1">Have any feedback? Please provide them here: <script>var refURL = window.location.protocol + "//" + window.location.host + window.location.pathname; document.write('<a href="http://international-aset.com/feedback/?refURL=' + refURL+'" class="body-link">Feedback</a>');</script></p>
 </div>
