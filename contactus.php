@@ -296,10 +296,12 @@ mail($my_email,$subject,$message,$headers);
       </section>
     <h2>Upcoming Dates</h2>
 
+<h2>Upcoming Dates</h2>
+
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    Nov. 1, 2016
+    Dec. 1, 2016
   </div>
 </div>
 
@@ -313,7 +315,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    Jan. 15, 2017
+    Feb. 15, 2017
   </div>
 </div>
 
@@ -327,7 +329,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="grid events">
 <div class="unit unit-s-1 unit-m-1-4 unit-l-1-4">
   <div class="date">
-    Feb. 1, 2017
+    Mar. 1, 2017
   </div>
 </div>
 
